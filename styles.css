@@ -1,0 +1,21 @@
+:root {
+    --bs-light-rgb: #a3632b !important;
+    --bs-body-bg: #a3632b !important;
+}
+
+body{
+    background-color: var(--bs-body-bg);
+}
+
+/* .navbar{
+    justify-content: flex-start !important;
+} */
+
+h1{
+    font-size: 40px;
+}
+
+footer{
+   text-align: center;
+   font-size: larger;
+}
